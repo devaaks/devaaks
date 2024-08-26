@@ -38,8 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,webpack,babel,tailwind,bootstrap,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,flask,aws,java,firebase,mongodb,postgres,mysql" />
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,express,flask,aws,java,firebase,mongodb,postgres,mysql,kubernetes,docker" />
    <br>
 </div>
 
@@ -47,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>📈 My Contributions 📈</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
