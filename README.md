@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  🔭 I’m currently working on **React Interview Repo**
+  <!--🔭 I’m currently working on **React Interview Repo** -->
  
  🌱 I’m currently learning **Web3, AI**
 
