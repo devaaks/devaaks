@@ -12,7 +12,7 @@
  
   <!--🔭 I’m currently working on **React Interview Repo** -->
  
- 🌱 I’m currently learning **Web3, AI**
+ 🌱 I’m currently learning **Web3 And AI**
 
 💬 Ask me about **React, Node.js, React-native, AWS... or anything [here](https://github.com/devaaks/devaaks/issues)**
 
