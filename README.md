@@ -1,7 +1,7 @@
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=devaaks.devaaks" alt="Profile views" /></p>
 
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="A keyboard types devaaks into a terminal. The terminal prints: name Ashish Singh. Role: full-stack engineer, 10+ years. Career: a seed-stage startup in its early funding, then a growth startup whose revenue grew from thousands to millions, then an enterprise that is #1 on the Fortune 500 list. Worked with teams in the US, Berlin, Toronto, Montreal and India. Industries: payments, retail, AdTech, EdTech, AgTech, aviation and market intelligence. Builds AI apps, agents and workflows, distributed systems, web apps (front end and back end), mobile and desktop apps, and browser extensions. Open to Staff Engineer, AI Engineer and Founding Engineer roles." />
+  <img src="assets/hero.svg" width="100%" alt="A keyboard types devaaks into a terminal. The terminal prints: name Ashish Singh. Role: full-stack engineer and engineering lead, 10+ years. Career: a seed-stage startup in its early funding, then a growth startup whose revenue grew from thousands to millions, then an enterprise that is #1 on the Fortune 500 list. Worked with teams in the US, Berlin, Toronto, Montreal and India. Industries: payments, retail, AdTech, EdTech, AgTech, aviation and market intelligence. Builds AI apps, agents and workflows, distributed systems, web apps (front end and back end), mobile and desktop apps, and browser extensions. Open to Staff Engineer, AI Engineer and Founding Engineer roles." />
 </p>
 
 <p align="center"><sub>Teal keys type my handle. Grey keys are the tools I build with. Time zone: EST (UTC−5).</sub></p>
