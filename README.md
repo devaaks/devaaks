@@ -1,54 +1,24 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devaaks.devaaks" />
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=devaaks.devaaks" alt="Profile views" /></p>
 
-<h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=32&center=true&vcenter=true&duration=3500&pause=600&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ashish!" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="A keyboard types devaaks into a terminal. The terminal prints: name Ashish Singh. Role: full-stack engineer, 10+ years. Career: a seed-stage startup in its early funding, then a growth startup whose revenue grew from thousands to millions, then an enterprise that is #1 on the Fortune 500 list. Worked with teams in the US, Berlin, Toronto, Montreal and India. Industries: payments, retail, AdTech, EdTech, AgTech, aviation and market intelligence. Builds AI apps, agents and workflows, distributed systems, web apps (front end and back end), mobile and desktop apps, and browser extensions. Open to Staff Engineer, AI Engineer and Founding Engineer roles." />
+</p>
 
-<h3 align="center">A passionate software developer</h3>
+<p align="center"><sub>Teal keys type my handle. Grey keys are the tools I build with. Time zone: EST (UTC−5).</sub></p>
 
-<br/>
+### Open source I've shipped to
 
-<div align="center">
- 
-  <!--🔭 I’m currently working on **React Interview Repo** -->
- 
- 🌱 I’m currently learning **Web3 And AI**
+<p><a href="https://github.com/openchamber/openchamber"><img src="assets/oss-openchamber.svg" width="50%" alt="openchamber/openchamber, 13.2k stars: a workspace where AI agents write and edit code alongside developers" /></a><a href="https://github.com/mathesar-foundation/mathesar"><img src="assets/oss-mathesar.svg" width="50%" alt="mathesar-foundation/mathesar, 5.2k stars: lets anyone work with a Postgres database as easily as a spreadsheet" /></a></p>
 
-💬 Ask me about **React, Node.js, React-native, AWS... or anything [here](https://github.com/devaaks/devaaks/issues)**
+Have an open-source idea or project? I'm open to collaborating. [Open an issue](https://github.com/devaaks/devaaks/issues/new) on this repo or email me at [devaks24k@gmail.com](mailto:devaks24k@gmail.com).
 
-⚡ Fun fact **The term "bug" in programming comes from a moth found in a computer in 1947.**
+### Activity
 
- </div>
- 
-<div align="center"> 
-<!--   <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/aks24k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devaaks/devaaks/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/devaaks/devaaks/output/github-contribution-grid-snake.svg" />
+</picture>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,webpack,babel,tailwind,bootstrap,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,flask,aws,java,firebase,mongodb,postgres,mysql,kubernetes,docker" />
-   <br>
-</div>
+### Say hi
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>📈 My Contributions 📈</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/devaaks/devaaks/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<kbd>return ↵</kbd> &nbsp;[devaks24k@gmail.com](mailto:devaks24k@gmail.com) &nbsp;·&nbsp; or [open an issue](https://github.com/devaaks/devaaks/issues/new) on this repo.
