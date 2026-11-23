@@ -1,0 +1,12 @@
+{
+  "name": "devaaks-profile-tools",
+  "private": true,
+  "type": "module",
+  "description": "Builds and previews the SVGs in ../assets",
+  "devDependencies": {
+    "@primer/octicons": "19.15.0",
+    "github-markdown-css": "5.8.1",
+    "marked": "14.1.4",
+    "playwright-core": "1.48.2"
+  }
+}
